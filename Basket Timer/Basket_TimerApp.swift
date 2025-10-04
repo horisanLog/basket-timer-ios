@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct B_Ball_TimerApp: App {
+struct Basket_TimerApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

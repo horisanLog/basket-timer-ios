@@ -6,9 +6,9 @@
 //
 
 import Testing
-@testable import B_Ball_Timer
+@testable import Basket_Timer
 
-struct B_Ball_TimerTests {
+struct Basket_TimerTests {
 
     @Test func example() async throws {
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.

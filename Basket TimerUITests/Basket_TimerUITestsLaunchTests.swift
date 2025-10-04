@@ -7,7 +7,7 @@
 
 import XCTest
 
-final class B_Ball_TimerUITestsLaunchTests: XCTestCase {
+final class Basket_TimerUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
